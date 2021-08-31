@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @victorstironi
+- 👀 I’m interested in Architecture, Open-Source Design Tools and OpenBIM
+- 🌱 I’m currently learning FREECAD and Blender
+- 💞️ I’m looking to collaborate on architecture projects with OpenBIM tools.
+- 📫 How to reach me: victorstironi@hotmail.com
